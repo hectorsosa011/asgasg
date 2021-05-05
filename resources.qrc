@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/nuevo_nido" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
